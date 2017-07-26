@@ -1,4 +1,4 @@
-![listenner Logo](https://raw.github.com/hapijs/boom/master/images/boom.png)
+![listenner Logo](https://github.com/xzmagic/listenner/blob/master/listennerLogo.png)
 
 Lead Maintainer: [xzmagic](https://github.com/xzmagic)
 
