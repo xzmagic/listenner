@@ -1,6 +1,6 @@
 {
     "name": "listenner",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "a library to listen on a port wait event from client",
     "main": "index.js",
     "scripts": {

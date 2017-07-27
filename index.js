@@ -2,7 +2,6 @@ var http = require('http');
 var url = require('url');
 var qs = require('querystring');
 var fs = require('fs');
-var socketio = require('socket.io');
 
 function listenner(port) {
     var this_ = this;
