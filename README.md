@@ -45,6 +45,7 @@ Status: 200
 Headers: {"date":"Wed, 26 Jul 2017 13:55:16 GMT","connection":"close","transfer-encoding":"chunked"}
 recv rsp =  OK nofify event recved!
 ```
+<<<<<<< HEAD
 
 ## Pull  
 ###subscribe message from a Push node point to point  ,if you have multi Pull node  call ext() with Pull  let Pull upgrade  to a broadcast Pull node,
@@ -80,3 +81,5 @@ dbListenner.on('dataChanged', function (client) {
     eventPush.sendMessage("dataChanged");
 });
 ```
+=======
+>>>>>>> 3daf636322e3c8ec5122f053b7c9d91dd20b7099
