@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      "listenner",
+      "C:\\kmlc\\DeviceServerRefactor"
+    ],
+    [
+      {
+        "raw": "listenner",
+        "scope": null,
+        "escapedName": "listenner",
+        "name": "listenner",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\kmlc\\DeviceServerRefactor"
+    ],
+    [
+      {
+        "raw": "listenner",
+        "scope": null,
+        "escapedName": "listenner",
+        "name": "listenner",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\kmlc\\DeviceServerRefactor"
+    ]
+  ],
+  "_cnpm_publish_time": 1501127649222,
+  "_from": "listenner",
+  "_hasShrinkwrap": false,
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/listenner",
+  "_nodeVersion": "5.2.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/listenner_1.0.6_1519978978590_0.32751292479615035"
+  },
+  "_npmUser": {
+    "name": "xzmagic",
+    "email": "xzmagic@qq.com"
+  },
+  "_npmVersion": "4.5.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "listenner",
+    "scope": null,
+    "escapedName": "listenner",
+    "name": "listenner",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/listenner/-/listenner-1.0.6.tgz",
+  "_shasum": "553f4834894df6fe611e557a7ac1c000d0fc6ec1",
+  "_shrinkwrap": null,
+  "_spec": "listenner",
+  "_where": "C:\\kmlc\\DeviceServerRefactor",
+  "author": "xz@KMLC",
+  "bugs": {
+    "url": "https://github.com/xzmagic/listenner/issues"
+  },
+  "dependencies": {
+    "zmq": "^2.15.3"
+  },
+  "description": "a library to listen on a port wait event from client",
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "dist": {
+    "noattachment": false,
+    "shasum": "a59c595fa92be9bb2877ade67037ab737c451002",
+    "size": 436179,
+    "tarball": "http://registry.npm.taobao.org/listenner/download/listenner-1.0.4.tgz"
+  },
+  "homepage": "https://github.com/xzmagic/listenner#readme",
+  "keywords": [
+    "listenner"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    "xzmagic <xzmagic@qq.com>"
+  ],
+  "name": "listenner",
+  "optionalDependencies": {},
+  "publish_time": 1501127649222,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xzmagic/listenner.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}
